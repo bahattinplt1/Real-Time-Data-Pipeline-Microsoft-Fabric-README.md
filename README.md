@@ -79,10 +79,13 @@ Dankzij deze architectuur konden we **datakwaliteit, traceerbaarheid en prestati
 - **Zehra Aslan** – Data Analyst (rapportages & Power BI dashboards)  
 - **Bahattin Polat** – Data Engineer (PySpark & Dataflow Gen2 transformaties)  
 - **Fırat Çelik** – Data Architect (Medallion-architectuur & pipeline design)  
-- **Sümeyra Zenkin** – Project Manager (Scrum-coördinatie & communicatie)  
-- **Bilal Canbulat** – Data Engineer (Lakehouse & Delta Tables implementatie)  
 
-**Mentor:** Fatih Demir  
+**Mentoren:**  
+- Sümeyra Zenkin  
+- Bilal Canbulat  
+
+**Instructor:**  
+- Fatih Demir  
 
 ---
 
