@@ -89,3 +89,19 @@ Dankzij deze architectuur konden we **datakwaliteit, traceerbaarheid en prestati
 ##  Visualisaties
 
 Onderstaande afbeeldingen uit de presentatie tonen de architectuur, workflow en resultaten van dit project:
+
+![Slide 1](images/1.png)
+![Slide 2](images/2.png)
+![Slide 3](images/3.png)
+![Slide 4](images/4.png)
+![Slide 5](images/5.png)
+![Slide 6](images/6.png)
+![Slide 7](images/7.png)
+![Slide 8](images/8.png)
+![Slide 9](images/9.png)
+![Slide 10](images/10.png)
+![Slide 11](images/11.png)
+![Slide 12](images/12.png)
+![Slide 13](images/13.png)
+![Slide 14](images/14.png)
+
